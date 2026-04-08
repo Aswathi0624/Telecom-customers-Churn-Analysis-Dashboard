@@ -6,16 +6,17 @@ This project presents a comprehensive Telecom Customer Churn Analysis Dashboard 
 
 ## Objectives
 
-•	Identify key factors influencing customer churn
-•	Analyze customer demographics and service usage
-•	Monitor churn rate and trends
-•	Provide actionable insights for retention strategies
+-	Identify key factors influencing customer churn
+-	Analyze customer demographics and service usage
+- Monitor churn rate and trends
+-	Provide actionable insights for retention strategies
 
 ## Dataset Description
 
 The dataset includes detailed telecom customer information such as:
 
 #### Customer Details
+
 •	Gender
 •	Age
 •	Senior Citizen
@@ -23,6 +24,7 @@ The dataset includes detailed telecom customer information such as:
 •	Dependents
 •	Number of Dependents
 #### Services Information
+
 •	Phone Service
 •	Multiple Lines
 •	Internet Service
