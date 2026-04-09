@@ -1,4 +1,4 @@
-# Telecom-customers-Churn-Analysis-Dashboard
+# Telecom-customers-Churn-Analysis
 
 ## Project Overview
 
@@ -125,8 +125,10 @@ The dataset includes detailed telecom customer information such as:
 
 ## Screenshots
 
-<img width="1231" height="692" alt="Screenshot 1" src="https://github.com/user-attachments/assets/0c3860a4-f8db-48fa-93d5-651df9407119" />
+<img width="1370" height="766" alt="1 (2)" src="https://github.com/user-attachments/assets/b9859282-4dd4-4992-825d-4fe2949938f9" />
 
-<img width="1238" height="696" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3b69b92f-a3eb-481c-8b09-34a7ac1312f8" />
+<img width="1371" height="768" alt="2 (2)" src="https://github.com/user-attachments/assets/121f1a1e-b53a-4775-93c2-e65faae537ce" />
+
+
 
 
